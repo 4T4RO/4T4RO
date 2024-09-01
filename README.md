@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4T4RO
-- 👀 I’m interested in Data science(analitics)
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data science(analytics)
+- 🌱 I’m currently learning FE SE
+-  I’m looking to collaborate on ...
 - 📫 How to reach me +254798356187
 - 😄 Pronouns: him
 - ⚡ Fun fact: ...
